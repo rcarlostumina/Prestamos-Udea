@@ -5,7 +5,7 @@ En este repositorio demostraremos las capacidades de los estudiantes para resolv
 #*Integrantres*
 ## **Roberto carlos**
 ### Descripcion
-> Soy un estudiante de ingenieria industrial y mi objetivo es
+> Soy un estudiante de ingenieria industrial y mi objetivo es aprender a programar nivel good
 ## **Paulina**
 ### Descripcion
 >
