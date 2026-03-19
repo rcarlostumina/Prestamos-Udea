@@ -2,8 +2,10 @@
 
 # **Prestamos-Udea😎😎**
 En este repositorio demostraremos las capacidades de los estudiantes para resolver un prestamo
-#*Integrantres+
+#*Integrantres*
 ## **Roberto carlos**
-> Soy un estudiante de ingenieria industrial y mi objetivo es 
+### Descripcion
+> Soy un estudiante de ingenieria industrial y mi objetivo es
 ## **Paulina**
+### Descripcion
 >
